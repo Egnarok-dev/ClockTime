@@ -1,0 +1,1532 @@
+@media screen and (max-width: 1200px) {
+    .container {
+        width:960px;
+    }
+    /*start first-screen*/
+    .first-screen header {
+        width: 960px;
+    }
+
+    .first-screen header .logo {
+        width: 200px;
+    }
+
+    .first-screen header .logo .logo-background {
+        width: 35px;
+        height: 35px;
+    }
+
+    .first-screen header .logo .logo-background img {
+        width: 28px;
+    }
+
+    .first-screen header .logo span {
+        font-size: 30px;
+        margin-left: 5px;
+    }
+
+    .first-screen header .navbar {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    
+    .first-screen header .navbar .nav-links .menu {
+        width: 400px;
+    }
+
+    .first-screen header nav ul li a {
+        font-size: 18px;         
+    }
+
+    .first-screen header .btn-search .btn:first-child {
+        margin-left: 50px;
+    }
+
+    .first-screen header .btn-search .btn:nth-child(2) {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .first-screen header .btn-search .btn .btn-box span {
+        display: none;
+    }
+
+    .first-screen main {
+        width: 800px;
+        height: auto;
+        margin: 30px 15px 100px 160px;
+    }
+
+    .first-screen main article .box-color {
+        width: 860px;
+    }
+    
+    .first-screen main article .box-color h1 {
+        width: 500px;
+        font-size: 50px;
+        line-height: 50px;
+        margin: 30px 100px 8px 200px;
+    }
+
+    .first-screen main .border {
+        margin: 0 100px 8px 200px;
+    }
+
+    .first-screen main article .text p {
+        margin: 0 100px 8px 200px;
+    }
+
+    .first-screen main article .text-with-border p a {
+        margin: 0 160px 8px 200px;
+    }
+
+    .first-screen main article .btn-sale .btn-first a {
+        width: 180px;
+        padding: 5px;
+        margin: 0 0 8px 200px;
+        justify-content: center;
+    }
+
+    .first-screen main article .btn-sale .btn-second a {
+        width: 130px;
+        margin: 0 30px 5px 50px;
+        padding: 5px;
+        justify-content: center;
+    }
+
+    .first-screen main article .box-color .image-card img {
+        width: 250px;
+    }
+
+    .first-screen main article .box-color .image-card {
+        top: 50px;
+        left: -100px;
+    }
+    /*end first-screen*/
+
+    /*start second-screen*/
+    .second-screen .info-cards .left-card {
+        width: 470px;
+        height: 235px;
+    }
+
+    .second-screen .info-cards .left-card h2 {
+        width: 300px;
+        font-size: 28px;
+        margin: 15px 100px 0 40px;
+    }
+
+    .second-screen .info-cards .left-card p {
+        width: 300px;
+        margin: 0 10px 10px 40px;
+    }
+
+    .second-screen .info-cards .left-card a {
+        margin: 5px 10px 0 40px;
+    }
+    
+    .second-screen .info-cards .right-card {
+        width: 470px;
+        height: 235px;
+    }
+
+    .second-screen .info-cards .right-card h2 {
+        width: 300px;
+        font-size: 28px;
+        margin: 15px 10px 0 130px;
+    }
+
+    .second-screen .info-cards .right-card p{
+        width: 350px;
+        margin: 0 40px 10px 80px;
+    }
+
+    .second-screen .info-cards .right-card a {
+        margin: 5px 40px 0 130px;
+    }
+    /*end second-screen*/
+
+    /*start third-screen*/
+    .third-screen .container {
+        margin-top: 60px;
+    }
+
+    .third-screen .info-cards {
+        width: 960px;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 0;      
+    }
+
+    .third-screen .info-cards .card {
+        width: 350px;
+        margin-top: 80px;
+    }
+
+    .third-screen .info-cards .card .image-card img {
+        width: 250px;
+    }
+
+    .third-screen .info-cards .card .info {
+        margin: 230px 100px 0 30px;
+    }
+
+    .third-screen .info-cards .card .hidden-btn {
+        opacity: 1;
+    }
+    /*end third-screen*/
+
+    /*start fourth-screen*/
+    /*end fourth-screen*/
+
+    /*start fifth-screen*/
+    .fifth-screen .product-list {
+        justify-content: space-evenly;
+    }
+
+    .fifth-screen .product-list .box {
+        width: 250px;
+    }
+
+    .fifth-screen .product-list .box h3 {
+        font-size: 28px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex {
+        display: block;
+        margin-bottom: 55px;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex img {
+        display: block;
+        margin: 10px auto;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex .info {
+        margin: 0 auto;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex .info p {
+        text-align: center;
+        margin-top: 10px;
+        font-size: 20px;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex .info span {
+        display: block;
+        text-align: center;
+        font-size: 22px;
+    }
+    /*end fifth-screen*/
+
+    /*start sixth-screen*/
+    .sixth-screen .container {
+        margin-top: 50px;
+    }
+
+    .sixth-screen .info-sixth-screen {
+        width: 960px;
+    }
+
+    .sixth-screen .info-sixth-screen .left-box {
+        width: 350px;
+        height: 219px;
+    }
+
+    .sixth-screen .info-sixth-screen .left-box .image-card {
+        top: 50px;
+        right: -55px;
+    }
+
+    .sixth-screen .info-sixth-screen .left-box .image-card img {
+        width: 350px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box {
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box h2 {
+        margin: 0 0 20px 100px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box p {
+        width: 400px;
+        margin: 0 20px 10px 100px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box h3 {
+        margin: 0 20px 10px 100px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box span {
+        margin: 0 20px 10px 100px;
+    }
+
+    .sixth-screen .btn-sixth-screen {
+        margin: -70px 20px 20px 750px;
+    }
+    /*end sixth-screen*/
+
+    /*start seventh-screen*/
+    .seventh-screen .info-cards {
+        width: 960px;
+    }
+
+    .seventh-screen .info-cards h2 {
+        width: 400px;
+        text-align: center;
+        padding: 15px 0;
+        top: -37px;
+        left: 280px;
+    }
+
+    .seventh-screen .info-cards .cards .card img {
+        width: 100%;
+    }
+    /*end seventh-screen*/
+    
+    /*start eighth-screen*/
+    .eighth-screen .info-eighth-screen h2 {
+        width: 800px;
+        padding: 10px 200px;
+        text-align: center;
+        top: -65px;
+        left: 80px;
+        font-size: 35px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list {
+        justify-content: space-evenly;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .first-box {
+        width: 220px;
+        margin: 70px 0 68px;
+    }
+    .eighth-screen .info-eighth-screen .information-list .first-box div:nth-child(2) {
+        width: 190px;
+        font-size: 16px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .first-box div:last-child {
+        font-size: 16px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box {
+        width: 220px;
+        margin: 70px 0 68px 0;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box h3 {
+        font-size: 23px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box .flex p {
+        width: 90px;
+        font-size: 18px;
+        line-height: 25px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box .flex span {
+        font-size: 16px;
+        margin-left: 5px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box {
+        width: 180px;
+        margin: 70px 0 68px 0;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box h3, .fourth-box h3 {
+        font-size: 23px;
+        margin-bottom: 15px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box p, .fourth-box p {
+        width: 180px;
+        font-size: 16px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .fourth-box {
+        width: 180px;
+        margin: 70px 0 68px 0;
+    }
+    /*end eighth-screen*/
+}
+
+@media screen and (max-width: 992px) {
+    .container {
+        width: 720px;
+    }
+
+    /*start first-screen*/
+    .first-screen header {
+        width: 720px;
+    }
+
+    .first-screen header .logo {
+        width: 166px;
+    }
+
+    .first-screen header .logo .logo-background {
+        width: 30px;
+        height: 30px;
+    }
+
+    .first-screen header .logo .logo-background img {
+        width: 22px;
+    }
+
+    .first-screen header .logo span {
+        font-size: 25px;
+        margin-left: 5px;
+    }
+
+    .first-screen header .navbar {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .first-screen header .navbar .nav-links .menu {
+        width: 100%;
+        margin: 0;
+    }
+
+    .first-screen header nav ul li a {
+        font-size: 18px;
+        margin-left: 10px;        
+    }
+
+    .first-screen header .btn-search .btn:first-child {
+        margin-left: 30px;
+    }
+
+    .first-screen header .btn-search .btn:nth-child(2) {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .first-screen header .btn-search .btn .btn-box span {
+        display: none;
+    }
+
+    .first-screen main {
+        width: 620px;
+        height: auto;
+        margin: 30px 15px 100px 100px;
+    }
+
+    .first-screen main article .box-color {
+        width: 620px;
+    }
+    
+    .first-screen main article .box-color h1 {
+        width: 300px;
+        font-size: 35px;
+        line-height: 50px;
+        margin: 30px 150px 8px;
+    }
+
+    .first-screen main .border {
+        margin: 0px 150px 8px;
+    }
+
+    .first-screen main article .text p {
+        font-size: 15px;
+        margin: 0px 150px 8px;
+    }
+
+    .first-screen main article .text-with-border p a {
+        margin: 0px 150px 8px;
+    }
+
+    .first-screen main article .btn-sale .btn-first a {
+        width: 180px;
+        padding: 5px;
+        margin: 0px 0 8px 150px;
+        justify-content: center;
+    }
+
+    .first-screen main article .btn-sale .btn-second a {
+        width: 130px;
+        margin: 0 30px 5px 50px;
+        padding: 5px;
+        justify-content: center;
+    }
+
+    .first-screen main article .box-color .image-card img {
+        width: 220px;
+    }
+
+    .first-screen main article .box-color .image-card {
+        top: 80px;
+        left: -100px;
+    }
+    /*end first-screen*/
+
+    /*start second-screen*/
+    .second-screen .info-cards .left-card {
+        width: 350px;
+        height: 275px;
+    }
+
+    .second-screen .info-cards .left-card h2 {
+        width: 230px;
+        font-size: 25px;
+        margin: 10px 100px 0 20px;
+    }
+
+    .second-screen .info-cards .left-card p {
+        width: 300px;
+        margin: 0 10px 0 20px;
+    }
+
+    .second-screen .info-cards .left-card a {
+        margin: 5px 10px 0 20px;
+    }
+    
+    .second-screen .info-cards .right-card {
+        width: 350px;
+        height: 275px;
+    }
+
+    .second-screen .info-cards .right-card h2 {
+        width: 260px;
+        font-size: 25px;
+        margin: 10px 20px 0 70px;
+    }
+
+    .second-screen .info-cards .right-card p{
+        width: 300px;
+        margin: 0 20px 0 30px;
+    }
+
+    .second-screen .info-cards .right-card a {
+        margin: 5px 20px 0 30px;
+    }
+    /*end second-screen*/
+
+    /*start third-screen*/
+    .third-screen .container {
+        margin-top: 60px;
+    }
+
+    .third-screen .info-cards {
+        width: 720px;
+        flex-wrap: wrap;
+        margin-top: 0;      
+    }
+
+    .third-screen .info-cards .card {
+        width: 330px;
+        margin-top: 60px;
+    }
+
+    .third-screen .info-cards .card .image-card img {
+        width: 250px;
+    }
+
+    .third-screen .info-cards .card .info {
+        margin: 230px 100px 0 30px;
+    }
+
+    .third-screen .info-cards .card .hidden-btn {
+        opacity: 1;
+    }
+    /*end third-screen*/
+
+    /*start fourth-screen*/
+
+    /*end fourth-screen*/
+
+    /*start fifth-screen*/
+    .fifth-screen .product-list .box {
+        width: 230px;
+    }
+
+    .fifth-screen .product-list .box h3 {
+        font-size: 28px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex {
+        display: block;
+        margin-bottom: 55px;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex img {
+        display: block;
+        margin: 10px auto;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex .info {
+        margin: 0 auto;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex .info p {
+        text-align: center;
+        margin-top: 10px;
+        font-size: 20px;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex .info span {
+        display: block;
+        text-align: center;
+        font-size: 22px;
+    }
+    /*end fifth-screen*/
+
+    /*start sixth-screen*/
+    .sixth-screen .container {
+        margin-top: 50px;
+    }
+
+    .sixth-screen .info-sixth-screen {
+        width: 720px;
+    }
+
+    .sixth-screen .info-sixth-screen .left-box {
+        width: 300px;
+        height: 187px;
+    }
+
+    .sixth-screen .info-sixth-screen .left-box .image-card {
+        top: 50px;
+        right: -55px;
+    }
+
+    .sixth-screen .info-sixth-screen .left-box .image-card img {
+        width: 300px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box {
+        width: 400px;
+        margin: 0 auto;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box h2 {
+        margin: 0 0 20px 100px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box p {
+        width: 300px;
+        margin: 0 20px 10px 80px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box h3 {
+        margin: 0 20px 10px 80px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box span {
+        margin: 0 20px 10px 80px;
+    }
+
+    .sixth-screen .btn-sixth-screen {
+        margin: -85px 20px 20px 140px;
+    }
+    /*end sixth-screen*/
+
+    /*start seventh-screen*/
+    .seventh-screen .info-cards {
+        width: 720px;
+    }
+
+    .seventh-screen .info-cards h2 {
+        width: 320px;
+        text-align: center;
+        padding: 10px 0;
+        top: -37px;
+        left: 200px;
+    }
+
+    .seventh-screen .info-cards .cards .card img {
+        width: 100%;
+    }
+    /*end seventh-screen*/
+
+    /*start eighth-screen*/
+    .eighth-screen .info-eighth-screen h2 {
+        width: 600px;
+        padding: 10px 200px;
+        text-align: center;
+        top: -65px;
+        left: 60px;
+        font-size: 35px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list {
+        justify-content: space-between;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .first-box {
+        width: 190px;
+        margin: 70px 0 68px;
+    }
+    .eighth-screen .info-eighth-screen .information-list .first-box div:nth-child(2) {
+        width: 190px;
+        font-size: 15px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .first-box div:last-child {
+        font-size: 15px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box {
+        width: 190px;
+        margin: 70px 0 68px 0;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box h3 {
+        font-size: 22px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box .flex p {
+        width: 90px;
+        font-size: 17px;
+        line-height: 25px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box .flex span {
+        font-size: 14px;
+        margin-left: 5px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box {
+        width: 150px;
+        margin: 70px 0 68px 0;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box h3, .fourth-box h3 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box p, .fourth-box p {
+        width: 160px;
+        font-size: 14px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .fourth-box {
+        width: 150px;
+        margin: 70px 0 68px 0;
+    }
+    /*end eighth-screen*/
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 540px;
+    }
+    /*start first-screen*/
+    .first-screen header {
+        width: 540px;
+        margin: 0;
+    }
+
+    .first-screen header .btn-search {
+        display: block;
+        position: absolute;
+        top: 43px;
+    }
+
+    .first-screen header .btn-search .btn:first-child {
+        margin: 0;
+        display: flex;
+    }
+
+    .first-screen header .btn-search .btn:nth-child(2) {
+        margin: 5px 0;
+        display: flex;
+    }
+
+    .first-screen header .btn-search .btn:last-child {
+        display: flex;
+    }
+    .first-screen header .btn-search .btn .btn-box span {
+        margin: 0;
+    }
+
+    .first-screen main {
+        width: 480px;
+        margin: 0 0 20px 60px;
+    }
+
+    .first-screen main article .box-color {
+        width: 480px;
+    }
+
+    .first-screen main article .box-color h1 {
+        width: 320px;
+        font-size: 25px;
+        margin: 10px 10px 5px 20px;
+    }
+
+    .first-screen main .border {
+        width: 110px;
+        margin: 0 10px 5px 20px;
+    }
+
+    .first-screen main article .text p{
+        width: 300px;
+        font-size: 14px;
+        margin: 10px 10px 5px 120px;
+    }
+
+    .first-screen main article .text-with-border p a {
+        margin: 10px 10px 0 120px;
+    }
+
+    .first-screen main article .btn-sale {
+        margin: 20px 0;
+    }
+
+    .first-screen main article .btn-sale .btn-first a {
+        width: 120px;
+        height: 35px;
+        padding: 5px;
+    }
+
+    .first-screen main article .btn-sale .btn-first a .color-circle {
+        display: none;
+    }
+
+    .first-screen main article .btn-sale .btn-first a p {
+        font-size: 16px;
+    }
+
+    .first-screen main article .btn-sale .btn-second a {
+        width: 100px;
+        height: 35px;
+        padding: 5px;
+        margin-left: 30px;
+    }
+
+    .first-screen main article .btn-sale .btn-second a img {
+        width: 15px;
+        height: 15px;
+    }
+
+    .first-screen main article .btn-sale .btn-second a p {
+        font-size: 16px;
+    }
+
+    .first-screen main article .box-color .btn-arrow a img {
+        padding: 6px 11px 5px 11.5px;
+    }
+
+    .first-screen main article .box-color .btn-arrow:nth-child(2) a img {
+        padding: 6px 11.5px 5px 11px;
+    }
+
+    .first-screen main article .box-color .btn-arrow:first-child {
+        bottom: -30px;
+        right: 70px; 
+    }
+
+    .first-screen main article .box-color .btn-arrow:nth-child(2) {
+        bottom: -30px;
+        right: 15px; 
+    }
+
+    .first-screen main article .box-color .image-card img {
+        width: 120px;
+    }
+
+    .first-screen main article .box-color .image-card {
+        top: 75px;
+        left: -20px;
+    }
+    /*end first-screen*/
+
+    /*start second-screen*/
+    .second-screen .container {
+        margin-top: 80px;
+    }
+
+    .second-screen .info-cards {
+        display: block;
+    }
+    .second-screen .info-cards .left-card {
+        width: 100%;
+        height: 134px;
+        margin-bottom: 50px;
+    }
+
+    .second-screen .info-cards .left-card h2 {
+        width: 230px;
+        font-size: 22px;
+        margin: 0 100px 0 20px;
+    }
+
+    .second-screen .info-cards .left-card p {
+        width: 260px;
+    }
+    
+    .second-screen .info-cards .right-card {
+        width: 100%;
+        height: 134px;
+    }
+
+    .second-screen .info-cards .right-card h2 {
+        width: 230px;
+        font-size: 22px;
+        margin: 0 20px 0 290px;
+    }
+
+    .second-screen .info-cards .right-card p{
+        width: 260px;
+        margin: 0 20px 0 260px;
+    }
+
+    .second-screen .info-cards .right-card a {
+        margin: 5px 20px 0 30px;
+    }
+    /*end second-screen*/
+
+    /*start third-screen*/
+    .third-screen .container {
+        margin-top: 60px;
+    }
+
+    .third-screen .info-cards {
+        width: 540px;
+        flex-wrap: wrap;
+        margin-top: 0;      
+    }
+
+    .third-screen .info-cards .card {
+        width: 500px;
+        margin: 60px auto;
+    }
+
+    .third-screen .info-cards .card .image-card {
+        top: 0px;
+    }
+
+    .third-screen .info-cards .card .info {
+        margin: 7px 10px 8px 315px;
+    }
+
+    .third-screen .info-cards .card .image-card img {
+        width: 198px;
+    }
+
+    .third-screen .info-cards .card .hidden-btn {
+        margin: 7px 10px 10px 315px;
+    }
+
+    .third-screen .info-cards .card .hidden-btn .rectangle-btn {
+        width: 120px;
+    }
+
+    .third-screen .info-cards .card .hidden-btn .rectangle-btn a {
+        margin: 5px auto;
+    }
+    /*end third-screen*/
+
+    /*start fourth-screen*/
+    .fourth-screen .info-fourth-screen .left-box {
+        width: 240px;
+        margin: 20px 60px 0 8px;
+    }
+
+    .fourth-screen .info-fourth-screen .right-box {
+        width: 240px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+    
+    .fourth-screen .info-fourth-screen .right-box .image-card {
+        top: 50px;
+        left: -60px;
+    }
+
+    .fourth-screen .info-fourth-screen .right-box .image-card img {
+        width: 250px;
+    }
+    /*end fourth-screen*/
+
+    /*start fifth-screen*/
+    .fifth-screen .container {
+        margin-top: 0;
+    }
+    .fifth-screen .product-list {
+        width: 400px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .fifth-screen .product-list .box {
+        width: 400px;
+    }
+    .fifth-screen .product-list .box .our-products .flex {
+        width: 400px;
+        display: flex;
+        justify-content: space-evenly; 
+    }
+
+    .fifth-screen .product-list .box .our-products .flex img{
+        width: 150px;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex .info {
+        width: 200px;
+        margin: 0;
+    }
+    /*.fifth-screen .product-list {
+        flex-wrap: wrap;
+        padding: 0 25px;
+    }
+
+    .fifth-screen .product-list .box:last-child .our-products:nth-child(2){
+        display: flex;
+        flex-wrap: wrap;        
+    }*/
+    
+    /*end fifth-screen*/
+
+    /*start sixth-screen*/
+    .sixth-screen .container {
+        margin-top: 50px;
+    }
+
+    .sixth-screen .info-sixth-screen {
+        width: 540px;
+    }
+
+    .sixth-screen .btn-sixth-screen {
+        width: 120px;
+    }
+
+    .sixth-screen .btn-sixth-screen .btn a img {
+        padding: 9px 14px 8px 14.5px;
+    }
+
+    .sixth-screen .btn-sixth-screen .btn:nth-child(2) a img {
+        padding: 9px 14.5px 8px 14px;
+    }
+
+    .sixth-screen .info-sixth-screen .left-box {
+        display: none;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box {
+        width: 100%;        
+    }
+
+    .sixth-screen .info-sixth-screen .right-box h2 {
+       margin: 0;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box p {
+        width: 400px;
+        margin: 8px 0 0 30px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box h3 {
+        margin: 8px 0 0 30px;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box span {
+        margin: 8px 0 0 30px;
+    }
+
+    .sixth-screen .btn-sixth-screen {
+        margin: -70px 20px 20px 400px;
+    }
+    /*end sixth-screen*/
+
+    /*start seventh-screen*/
+    .seventh-screen .container{
+        margin-bottom: 70px;
+    }
+
+    .seventh-screen .info-cards {
+        width: 540px;
+    }
+
+    .seventh-screen .info-cards h2 {
+        width: 230px;
+        text-align: center;
+        padding: 10px 0;
+        top: -67px;
+        left: 150px;
+        font-size: 20px;
+    }
+
+    .seventh-screen .info-cards .cards {
+        flex-wrap: wrap;  
+        justify-content: space-between;      
+    }
+
+    .seventh-screen .info-cards .cards .card {
+        margin: 15px;
+    }
+
+    .seventh-screen .info-cards .cards .card img {
+        width: 100%;
+        border-radius: 15px;
+    }
+    /*end seventh-screen*/
+    
+    /*start eighth-screen*/
+    .eighth-screen .info-eighth-screen h2 {
+        width: 350px;
+        padding: 15px 100px;
+        text-align: center;
+        top: -30px;
+        left: 90px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list {
+        padding: 15px;
+        flex-wrap: wrap;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .first-box {
+        width: 220px;
+        height: 300px;        
+        margin: 70px 0 0;
+    }
+    .eighth-screen .info-eighth-screen .information-list .first-box div:nth-child(2) {
+        width: 220px;
+        font-size: 15px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .first-box div:nth-child(3) {
+        margin-top: 2px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .first-box div:last-child {
+        font-size: 15px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box {
+        width: 220px;
+        height: 300px; 
+        margin: 70px 0 0;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box h3 {
+        font-size: 22px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box .flex p {
+        width: 90px;
+        font-size: 17px;
+        line-height: 25px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .second-box .flex span {
+        font-size: 14px;
+        margin-left: 5px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box {
+        width: 150px;
+        margin: 15px 0 68px 0;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box h3, .fourth-box h3 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .third-box p, .fourth-box p {
+        width: 160px;
+        font-size: 14px;
+        letter-spacing: 0em;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .fourth-box {
+        width: 150px;
+        margin: 15px 70px 68px 0;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .btn-up img {
+        top: -32px;
+        right: 0px;
+    }
+    /*end eighth-screen*/  
+}
+
+@media screen and (max-width: 576px) {
+    .container {
+        width: 100%;
+        padding: 0 18px;
+    }
+    /*start first-screen*/
+    .first-screen header {
+        width: 100%;
+    }
+    .first-screen header .navbar {
+        width: 100%;
+        display: flex;
+        margin-left: 0;
+    }
+
+    .first-screen header .navbar .nav-links .menu {
+        display: none;
+        max-width: 86%;        
+        position: absolute;       
+    }
+    
+    .hamburger {
+        display: block;
+        padding: 20px 0;
+    }
+
+    #checkbox_toogle:checked ~ .menu {
+        display: block;
+        width: 100%;
+        max-height: 100%;        
+        text-align: center;
+        font-size: 18px;
+        line-height: 35px;
+        transition: all .5s;
+        background-color: white;
+        border-radius: 0 0 15px 15px;
+        z-index: 5;
+        top: 42px;
+        right: 18px;
+        left: 63px;
+    }
+
+    .first-screen header .navbar .nav-links .menu li:hover {
+        width: 100%;
+        background-color: #cdeceb;
+        border-radius: 15px;
+    }
+
+    #checkbox_toogle:checked ~ .hamburger .hamburger-line {
+        background-color: transparent;
+    }
+    
+    #checkbox_toogle:checked ~ .hamburger .hamburger-line::before {
+        transform: rotate(-45deg);
+        top: 0;
+    }
+
+    #checkbox_toogle:checked ~ .hamburger .hamburger-line::after {
+        transform: rotate(45deg);
+        top: 0;
+    }
+    
+
+    .first-screen main {
+        width: 89%;
+        margin: 0 0 20px 60px;
+    }
+
+    .first-screen main article .box-color {
+        width: 89%;
+    }
+
+    .first-screen main article .box-color h1 {
+        width: 100%;
+        font-size: 4vw;
+        margin: 0;
+        padding: 5px 10px 5px 20px;
+    }
+
+    .first-screen main .border {
+        width: 20%;
+        padding: 0 10px 0 20px;
+    }
+
+    .first-screen main article .text p{
+        width: 70%;
+        height: auto;
+        font-size: 2.5vw;
+        padding: 5px;
+        margin: 10px 10px 5px 115px;
+    }
+
+    .first-screen main article .text-with-border p a {
+        width: 20%;
+        margin: 10px 10px 0 120px;
+    }
+
+    .first-screen main article .btn-sale {
+        width: 60%;
+        margin: 20px 120px;
+        justify-content: space-between;
+    }
+
+    .first-screen main article .btn-sale .btn-first a {
+        width: 100%; 
+        padding: 0;
+        margin: 0;
+    }
+
+    .first-screen main article .btn-sale .btn-first a p {
+        font-size: 3vw;
+    }
+
+    .first-screen main article .btn-sale .btn-second a {
+        width: 100%;
+        height: 35px;
+        padding: 5px;
+        margin-left: 0;
+    }
+
+    .first-screen main article .btn-sale .btn-second a img {
+        width: 15px;
+        height: 15px;
+    }
+
+    .first-screen main article .btn-sale .btn-second a p {
+        font-size: 3vw;
+    }
+
+    .first-screen main article .box-color .btn-arrow {
+        width: 15%;
+    }
+
+    .first-screen main article .box-color .btn-arrow a img {
+        padding: 6px 11px 5px 11.5px;
+    }
+
+    .first-screen main article .box-color .btn-arrow:nth-child(2) a img {
+        padding: 6px 11.5px 5px 11px;
+    }
+
+    .first-screen main article .box-color .btn-arrow:first-child {
+        bottom: -30px;
+        right: 70px; 
+    }
+
+    .first-screen main article .box-color .btn-arrow:nth-child(2) {
+        bottom: -30px;
+        right: 15px; 
+    }
+
+    .first-screen main article .box-color .image-card img {
+        width: 120px;
+    }
+
+    .first-screen main article .box-color .image-card {
+        width: 100%;
+        height: auto;
+        top: 75px;
+        left: -20px;
+    }
+    /*end first-screen*/
+
+    /*start second-screen*/
+    .second-screen .info-cards {
+        width: 100%;
+    }
+
+    .second-screen .info-cards .left-card {
+        width: 100%;
+    }
+
+    .second-screen .info-cards .left-card h2 {
+        font-size: 4.3vw;
+    }
+
+    .second-screen .info-cards .left-card p {
+        font-size: 3vw;
+    }
+
+    .second-screen .info-cards .left-card a {
+        font-size: 3vw;
+    }
+
+    .second-screen .info-cards .left-card img {
+        width: 50%;
+        height: auto;
+    }
+    /*end second-screen*/
+
+    /*start third-screen*/
+    .third-screen h2 {
+        font-size: 6.2vw;
+    }
+
+    .third-screen .info-cards {
+        width: 100%;
+    }    
+
+    .third-screen .info-cards .card .info {
+        width: 100%;
+        margin-left: 250px;
+    }
+
+    .third-screen .info-cards .card .info h3 {
+        font-size: 4vw;
+    }
+
+    .third-screen .info-cards .card .info span {
+        font-size: 2.7vw;
+    }
+
+    .third-screen .info-cards .card .info .line-through span {
+        font-size: 2.7vw;
+    }
+
+    .third-screen .info-cards .card .info p {
+        font-size: 4.1vw;
+    }
+
+    .third-screen .info-cards .card .hidden-btn {
+        width: 50%;
+        margin: 0 0 0 200px;
+        justify-content: center;
+    }
+    /*end third-screen*/
+
+    /*start fourth-screen*/
+    .fourth-screen .container {
+        margin-top: 40px;
+    }
+
+    .fourth-screen .info-fourth-screen .left-box {
+        width: 60%;
+    }
+
+    .fourth-screen .info-fourth-screen .left-box span {
+        font-size: 3.3vw;
+    }
+
+    .fourth-screen .info-fourth-screen .right-box {
+        width: 50%;
+        height: 220px;
+    }
+
+    .fourth-screen .info-fourth-screen .left-box h3 {
+        width: 80%;
+        margin: 0 auto 35px;
+        font-size: 5vw;
+    }
+
+    .fourth-screen .info-fourth-screen .left-box .btn {
+        width: 100%;
+    }
+
+    .fourth-screen .info-fourth-screen .left-box .btn a {
+        font-size: 2.8vw;
+    }
+
+    .fourth-screen .info-fourth-screen .right-box .image-card img {
+        width: 70%;
+        height: auto;
+    }
+    /*end fourth-screen*/
+
+    /*start fifth-screen*/
+    .fifth-screen .container {
+        margin-top: 0;
+    }
+
+    .fifth-screen .product-list {
+        width: 100%;
+    }
+
+    .fifth-screen .product-list .box {
+        width: 100%;
+    }
+
+    .fifth-screen .product-list .box h3 {
+        width: 100%;
+        font-size: 5vw;
+        margin: 0 auto 40px;
+    }
+
+    .fifth-screen .product-list .box .our-products .flex {
+        width: 100%;
+    }
+    /*end fifth-screen*/
+
+    /*start sixth-screen*/
+    .sixth-screen .info-sixth-screen {
+        width: 100%;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box {
+        width: 100%;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box h2 {
+        width: 100%;
+        font-size: 6vw;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box p {
+        width: 90%;
+        font-size: 3vw;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box h3 {
+        font-size: 4.2vw;
+    }
+
+    .sixth-screen .info-sixth-screen .right-box span {
+        font-size: 3vw;
+    }
+
+    .sixth-screen .btn-sixth-screen {
+        margin: 15px 0 0 30px;
+        width: 29%;
+    }
+
+    .sixth-screen .btn-sixth-screen .btn a img {
+        width: 80%;        
+    }
+    /*end sixth-screen*/
+
+    /*start seventh-screen*/
+    .seventh-screen .info-cards {
+        width: 100%;
+    }
+
+    .seventh-screen .info-cards h2 {
+        width: 60%;
+        padding: 5px 10px;
+        font-size: 3.8vh;
+        top: -42px;
+        left: 81px;
+    }
+
+    .seventh-screen .info-cards .cards {
+        width: 100%;
+        margin: 0 auto;
+        justify-content: center;
+    }
+
+    /*end seventh-screen*/
+    
+    /*start eighth-screen*/
+    .eighth-screen .info-eighth-screen h2 {
+        width: 50%;
+        padding: 15px;
+        text-align: center;
+        top: -29px;
+        left: 80px;
+        font-size: 4vw;
+        line-height: 30px;
+    }
+
+    .eighth-screen .info-eighth-screen .information-list .btn-up img {
+        top: -32px;
+        right: 60px;
+    }
+    /*end eighth-screen*/
+}
